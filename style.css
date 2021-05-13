@@ -1,0 +1,55 @@
+body {
+  text-align: center;
+  background: url("https://www.teahub.io/photos/full/262-2626326_country-music-wallpaper-1500x1068-background-images-for-music.jpg");
+}
+button {
+  margin-top: 100px;
+  margin-left: 10px;
+  width: 150px;
+  height: 150px;
+  border: 7px solid rgb(20, 20, 82);
+  text-shadow: 7px 6px 9px red;
+  color: white;
+  font-size: 60px;
+  border-radius: 10px;
+  /* align-self: baseline; */
+  line-height: 3;
+  outline: none;
+}
+h1{
+	font-size: 83px;
+	color: white;
+    text-shadow: 7px 6px 9px red;
+}
+.w {
+	text-transform: uppercase;
+  background-image: url("img//crash.png");
+}
+.a {
+	text-transform: uppercase;
+  background-image: url("img//kick.png");
+}
+.s {
+	text-transform: uppercase;
+  background-image: url("img//snare.png");
+}
+.d {
+	text-transform: uppercase;
+  background-image: url("img//tom1.png");
+}
+.j {
+	text-transform: uppercase;
+  background-image: url("img//tom2.png");
+}
+.k {
+	text-transform: uppercase;
+  background-image: url("img//tom3.png");
+}
+.l {
+	text-transform: uppercase;
+  background-image: url("img//tom4.png");
+}
+.pressed{
+  box-shadow: 0 3px 4px 0 black;
+  opacity: 0.5;
+}
